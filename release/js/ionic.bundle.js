@@ -58874,7 +58874,7 @@ if (typeof module !== "undefined" && typeof exports !== "undefined" && module.ex
         });
 
       }]);
-
+// 11
   IonicModule
     .controller('$ionInfiniteScroll', [
       '$scope',
