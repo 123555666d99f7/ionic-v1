@@ -29,23 +29,8 @@
   "license": "MIT",
   "private": false,
   "ignore": [
-    "**/.*",
-    "CONTRIBUTING.md",
-    "Gruntfile.js",
-    "component.json",
-    "config",
-    "examples",
-    "package.json",
-    "release/js/angular",
-    "release/js/angular-ui",
-    "scripts",
-    "test",
-    "js/controllers",
-    "js/ext",
-    "js/utils",
-    "js/views",
-    "js/_license.js",
-    "js/ionic.js"
+    "js/angular",
+    "js/angular-ui" 
   ],
   "dependencies": {
     "angular": "1.5.3",
